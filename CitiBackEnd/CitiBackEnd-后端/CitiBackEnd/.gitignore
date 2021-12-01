@@ -1,0 +1,6 @@
+flaskProjectbe/__pycache__
+.DS_store
+flaskProjectbe/.idea
+.idea/
+venv/
+
